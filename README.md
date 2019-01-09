@@ -106,5 +106,3 @@ Test numbers: `$N` = [1..9]
    Result: **error**
 
    > src/gen_test.c:3:20: fatal error: caesar.h: No such file or directory
-
-<3
